@@ -59,6 +59,7 @@ If i had more time, I would:
 4. Add accessibility features to ensure the search bar is usable by all users.
   - I would do this by adding appropriate ARIA attributes to the input and results elements, ensuring keyboard navigation is supported, and providing clear focus indicators.
 5. Style the search bar and results list for better user experience.
+6. Add pagination or infinite scroll for large result sets.
 */
 
 /*
